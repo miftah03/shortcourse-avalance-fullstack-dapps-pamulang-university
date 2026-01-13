@@ -1,7 +1,7 @@
 # Short Course Avalanche Fullstack dApps  
 ## Pamulang University (UNPAM)
 
-Tugas Short Course Fullstack dApps Avalanche
+Short Course Simple Fullstack dApps Avalanche
 
 ---
 
